@@ -33,6 +33,10 @@
   .screenshotsHeader {
     text-align: center;
   }
+  .teaserVideo  {
+    justify-content: center;
+    text-align: center;
+  }
   
   .screenshotsGrid  {
     display: grid;
